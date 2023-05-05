@@ -1,9 +1,9 @@
 ---
 ---
 
-# labjte's Website
+# Laboratorium JTE Untirta
 
-An engaging 1-3 sentence description of your lab.
+Situs Official Laboratorium JTE Untirta
 
 {% include section.html %}
 
